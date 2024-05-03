@@ -30,7 +30,7 @@ Sobre o tema do ebook, escolhi falar sobre NoSQL e MongoDB, seguindo a temática
 
 ## 📖 Preview do EBOOK:
 
-- <a href=""> 📕Clique aqui para ler</a>
+- <a href="https://github.com/MarcosWinther/creating-an-ebook-about-mongodb-with-chatgpt-with-a-scooby-doo-theme/blob/main/output/ebook-nosql-mongodb-scooby-doo.pdf"> 📕Clique aqui para ler</a>
 
 
 ## 💻 Tecnologias utilizadas no projeto

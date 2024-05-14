@@ -22,7 +22,8 @@
 </p>
 
 
- > ℹ️ **NOTE:** Este é o repositório é um desafio de projeto proposto no curso na plataforma da [DIO](https://dio.me).
+ > ℹ️ **NOTE:** Este repositório é um desafio de projeto proposto no curso "
+Criando um Ebook com ChatGPT & MidJourney" na plataforma da [DIO](https://dio.me).
 
 Projeto Ebook gerado por I.A.s proposto pelo professor Felipe Aguiar da plataforma educacional DIO.
 

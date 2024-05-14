@@ -81,10 +81,9 @@ Copilot Microsot：
     <a href="https://github.com/MarcosWinther">
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/marcoswinthersilva/">LinkedIn</a>
-</p>
+    </p>
 </p>
 <br/><br/>
-<p>
 
 ---
 
